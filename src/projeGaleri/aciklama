@@ -1,0 +1,44 @@
+
+kullanýcý tarafýndan
+ 
+1- araba seçecek. (tek marka)
+
+2-	Özelliklerini sýrasý seçimler arasýndan belirleyecek
+	a) Araç paket seçenekleri gösterilir. (2 paket (Basic Honda - LuxHonda)
+
+Basic Honda Seçildiðinde 
+
+	a) Araç Tipi seçilir. (Sedan ) 
+	b) Vites türü (manuel)
+	c) renk seçeneði (beyaz)
+	d) Yakýt türü (benzin)	
+	
+	fiyatý ise 100.000 TL
+	
+	eðer Lüx Honda seçerse deðiþecektir.
+	
+	
+	
+Lux Honda Seçildiðinde
+ 
+ NOT : Aracýn standar paket fiyatý sabittir. Üzerine eklenen özelliklere göre aþaðýda fiyatlar eklenir.
+ 
+	a) Araç Tipi seçilir. (Sedan, Hatchback) 	standart fiyat
+	b) Vites türü (otomatik- manuel)	otomatik 2000
+	c) renk seçeneði (5 renk)		metal 500TL
+	d) Navigasyon					1000 TL
+	e) Sunroof						1500 TL
+	f) Yakýt türü (benzin - diesel - hibrit)	
+
+3- seçilen özelliklere fiyatý belirlenecek.( Gösterilecek.)
+
+4- satýn al dediðinde alýna  arabanýn özellikelr çýktý olarak gösterilecek.
+
+
+
+
+
+
+Lütfen araba markasýný seçin
+Araba paketini seçiniz (Basit - Lüx)
+
