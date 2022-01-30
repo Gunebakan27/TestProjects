@@ -1,15 +1,21 @@
 package BankaProjesi2;
 
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import Calculator.Downloads.SqLConnect;
+
 public class Main {
     static Scanner scan = new Scanner(System.in);
     static List<Yonetici> yoneticiList = new ArrayList<>();
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException, SQLException {
         Main m = new Main();
-        m.ekranCiktisi();
+        SqLConnect sql=new SqLConnect();
+        sql.kodRun();
+        sql.tabloSil("Rehber");
+//        m.ekranCiktisi();
     }
 
     public void ekranCiktisi() {
